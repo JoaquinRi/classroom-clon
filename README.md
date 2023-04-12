@@ -1,4 +1,10 @@
 # classroom-clon
+
+2- Organizacion de los  directorios: Dentro la carpeta principal
+   se encontraran subdivisiones las cuales organizaran los 
+   archivos por formato quedando asi tres carpetas principales
+   Hojas de estilo, HTML e Imagenes. 
+
 3- Composicion de la pagina: La pagina tiene una barra de menpu con el logo de "google Classroom"
     donde a la izquierda tiene un icono de triple barra para un menú donde se ubica un icono de
     una casa con el nombre de "clases", que al tocarlo te envía a la pagina principal donde están
